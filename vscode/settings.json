@@ -1,0 +1,18 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.fontFamily": "Monaco, 'Courier New', monospace",
+    "window.zoomLevel": 0,
+    "editor.tabSize": 2,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "terminal.integrated.fontFamily": "Monaco for Powerline",
+    "nightswitch.dayTheme": "Solarized Light",
+    "nightswitch.nightTheme": "Nova",
+    "nightswitch.location": "(48.8647,2.3490)",
+    "workbench.colorTheme": "Solarized Light",
+    "zenMode.fullScreen": false,
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "workbench.editor.enablePreview": false,
+    "zenMode.hideTabs": false
+}
